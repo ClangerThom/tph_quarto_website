@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "website"
+  title: "Thomas Philip Heyes"
   navbar:
     right:
       - about.qmd
@@ -12,9 +12,7 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: sandstone
     css: styles.css
 
 editor: visual

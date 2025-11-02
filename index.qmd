@@ -1,5 +1,5 @@
 ---
-title: "website"
+title: "Thomas Philip Heyes"
 listing:
   contents: posts
   sort: "date desc"
